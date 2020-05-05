@@ -3,6 +3,9 @@ Lights out is a puzzle game where your goal is to turn off all the lights.
 
 ![working version of Lights Out Game](LightsOut.gif?raw=true)
 
+## Update
+Added a reset button to reset the grid and start a new game.
+
 ## Inspiration
 so recently i was solving a codeforces problem with the same name and i thought why not create a game like this.
 > https://codeforces.com/problemset/problem/275/A
