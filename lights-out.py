@@ -13,7 +13,7 @@ inspiration:
 
 reference:
 	https://en.wikipedia.org/wiki/Lights_Out_(game)
-	and some stackoverflow posts... :P
+	and some stackoverflow posts... 😜
 """
 from tkinter import messagebox
 import tkinter as tk
